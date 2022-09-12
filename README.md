@@ -1,4 +1,4 @@
-# About this page
+# :notebook_with_decorative_cover: About this page
 This page covers my introduction, including my interest of research and the motivation of studying causal inference.
 ## About Me
 I am a second-year master student in mathematics department. 
@@ -9,3 +9,4 @@ As for future perspective, I would like to percede my study in mathematics by ap
 ## The Motivation Of Studying Causal Inference
 From my perspective, causal inference offers a tool to transform actual models into different causal relationships. With these different logical connections and experimental specific data, we can use computer and mathematical models to simulate and solve practical problems, such as epidemic spread prediction, etc.
 ## Contact Me
+Email: yvonnerui0@gmail.com
